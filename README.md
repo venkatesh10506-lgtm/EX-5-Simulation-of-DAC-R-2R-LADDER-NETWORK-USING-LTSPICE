@@ -20,6 +20,7 @@
 
 ## CIRCUIT DIAGRAM
 ![WhatsApp Image 2025-12-04 at 1 10 56 PM](https://github.com/user-attachments/assets/fce2726b-a965-4b32-8aaa-5f4bf403f704)
+![WhatsApp Image 2025-12-04 at 1 56 45 PM](https://github.com/user-attachments/assets/061a8334-47cb-4991-ba5d-f4fcc7de2921)
 
 ---
 ## MODEL GRAPH
